@@ -5,6 +5,7 @@ This is a static blocklist for pihole https://pi-hole.net/ for blocking twitter 
 How to use it ?
 
 With 5.1.2 version: 
+
 1- Login to your Pi-hole admin panel.
 2- Navigate to Group Management -> Adlist. 
 3- Past https://raw.githubusercontent.com/NoussairMoussa/twitterPihole/main/list.txt in the address input.
